@@ -1,2 +1,3 @@
-# Q-bank
-Projeto Bando Q-bank
+# DESENVOLVIMENTO - BANCO Q-BANK
+
+
